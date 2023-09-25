@@ -1,8 +1,8 @@
 # Automation Task
-Scenario to select lowest item price and checkout on (https://www.saucedemo.com/) using selenium bu java
+Scenario to select lowest item price and checkout on (https://www.saucedemo.com/) using selenium by java
 
 ## Usage
-
+Inside Code:-
 Run the Scenario Class to execute the the whole Scenario 
 
 Opens link (https://www.saucedemo.com/) and login
