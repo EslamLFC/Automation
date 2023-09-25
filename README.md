@@ -3,6 +3,8 @@ Scenario to select lowest item price and checkout on (https://www.saucedemo.com/
 
 ## Usage
 
+Run the Scenario Class to execute the the whole Scenario 
+
 Opens link (https://www.saucedemo.com/) and login
 select the lowest price from filter from low to high
 add to chart 
